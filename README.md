@@ -23,12 +23,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ulyssesnetto)
 </div></div>
 
-📈 **Meus Status no GitHub:**
+📈 **Meus Status no GitHub:**</div>
+
 ![Ulysses's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulysses1212&show_icons=true&theme=highcontrast)
+</div></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulysses1212&layout=donut-vertical)](https://github.com/aulysses1212/github-readme-stats)
 </div></div>
 
-🛠️ **Linguagens e Ferramentas:**
-<div style="display: inline_block"><br/>
+🛠️ **Linguagens e Ferramentas:**<div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
