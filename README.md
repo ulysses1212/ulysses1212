@@ -21,10 +21,12 @@
 👥 **Rede Profissional:**
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ulyssesnetto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ulyssesnetto)
+</div></div>
 
 📈 **Meus Status no GitHub:**
 ![Ulysses's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulysses1212&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulysses1212&layout=donut-vertical)](https://github.com/aulysses1212/github-readme-stats)
+</div></div>
 
 🛠️ **Linguagens e Ferramentas:**
 <div style="display: inline_block"><br/>
